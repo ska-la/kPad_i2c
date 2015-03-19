@@ -1,0 +1,2 @@
+kPad	KEYWORD1
+setDelay	KEYWORD2
